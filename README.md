@@ -10,7 +10,7 @@ Sou analista de teste :computer: Aspirante a ser uma desenvolvedora Fron-end
  :rocket:  &nbsp; Estou trabalhando na **Fractal Tecnologia**
  <br/> :purple_heart: &nbsp; Buscando colaborar com a qualidade dos projetos
  <br/> :blush: &nbsp; Posso te ajudar a encontrar problemas no projeto e automatizar as aplicações. 
- <br/> :computer: &nbsp; Técnologias em testes: Selenium, Cucumber, Appium, Jenkins
+ <br/> :computer: &nbsp; Tecnologias em testes: Selenium, Cucumber, Appium, Jenkins
   <br/> :speak_no_evil:&nbsp;Em breve, vou colaborar em projetos Front-end
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, bordados, e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RenataPaiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-paiva-ctfl-3b882a23/)](https://www.linkedin.com/in/renata-paiva-ctfl-3b882a23/) 
