@@ -5,7 +5,7 @@
 
 ## Oiê 👋
 Gosto de desafios e prestar atenção em, detalhes...
-Sou analista de teste :computer: Aspirante a ser uma desenvolvedora Fron-end
+Sou Engenheira de Qualidade :computer: e atualmente exerço a função de Gerente de Projetos.
 
  :rocket:  &nbsp; Estou trabalhando na **Fractal Tecnologia**
  <br/> :purple_heart: &nbsp; Buscando colaborar com a qualidade dos projetos
