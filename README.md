@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="500px" src="https://thumbs.dreamstime.com/b/garota-programadora-no-trabalho-com-um-laptop-conceito-de-tecnologias-da-informa%C3%A7%C3%A3o-uma-linha-arte-%C3%BAnica-cont%C3%ADnua-minimalista-164306681.jpg" alt="Ilustração de uma programadora trabalhando com um laptop">
+<div align="center">
+
+<img width="500px" src="assets/eu.png" alt="Ilustração minimalista de uma mulher de cabelo curto e ondulado trabalhando no notebook">
+
+</div>
 
 # Olá, eu sou a Renata Paiva! 👋
 
